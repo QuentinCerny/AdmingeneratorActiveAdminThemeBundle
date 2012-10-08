@@ -9,6 +9,12 @@
         "cedriclombardot/admingenerator-generator-bundle": "*",
 	"cedriclombardot/admingenerator-oldtheme-bundle": "*"
     },
+    "repositories": {
+        "cedriclombardot/admingenerator-generator-bundle": {
+            "type": "vcs",
+	    "url": "https://github.com/QuentinCerny/AdmingeneratorGeneratorBundle.git"
+	}
+    },
     "authors": [
         {
             "name": "Cedric LOMBARDOT",
